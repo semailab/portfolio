@@ -2,11 +2,11 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a college student with a profound interest in technology and a dedication to solving complex problems as well as expanding my skill set.
+I am a Junior at The University of Texas at San Antonio with a profound interest in blue team cybersecurity and a dedication to forensics and incedent response as well as expanding my skill set.
 
 ## Objective
 
-My journey in computer science and my interest in tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Security Analyst and eventually developing enough skills to become an incident responder.
+My journey in computer science and my interest in tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a security analyst and eventually developing enough skills to become an incident responder.
 
 ## Skills
 
