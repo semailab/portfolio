@@ -31,6 +31,7 @@ My journey in computer science and my interest in tech has led me to develop a p
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 [(Link to my certification)](https://www.certmetrics.com/comptia/candidate/ccat_logo_download.aspx?)
 </div>
+
 ## Projects
 - DFIR and Security Analysis Lab
 - SOC Automation Project
