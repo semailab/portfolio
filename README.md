@@ -1,5 +1,4 @@
 # Hello, I'm Ian Villarreal, welcome to my landing page!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a Junior at The University of Texas at San Antonio with a profound interest in blue team cybersecurity and a dedication to forensics and incedent response as well as expanding my skill set.
