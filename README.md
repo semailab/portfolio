@@ -34,3 +34,9 @@ My journey in computer science and my interest in tech has led me to develop a p
 ## Projects
 - DFIR and Security Analysis Lab
 - SOC Automation Project
+
+## Competitions
+<div>
+    TracerFire 15 - 4th Place out of 20-30 Teams
+    CyberForce 2025 - Currently trying out for UTSA Team
+</div>
