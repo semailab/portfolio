@@ -30,8 +30,7 @@ My journey in computer science and my passion for technology has fueled my passi
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.certmetrics.com/comptia/candidate/ccat_logo_download.aspx?">Link to my certificate</a>
+<a href="https://drive.google.com/file/d/1_y635SCgRLhtT0w02efvs5cZO4UFBr14/view?usp=sharing"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
 
 ## Projects
