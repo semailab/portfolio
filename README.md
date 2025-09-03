@@ -12,20 +12,25 @@ My journey in computer science and my passion for technology has fueled my passi
 | Skill                                                | Associated Project                            |
 |------------------------------------------------------|-----------------------------------------------|
 | SIEM Implementation and Firewall Configuration with pfSense and ELK Stack  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
-|Log Analysis with Filebeat and Threat Mitigation with Fail2Ban                                                      | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project2.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 1: Password Spraying</a>                                              |
+|Log Analysis with Filebeat and Sysmon and Threat Mitigation with Fail2Ban                                                      | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project2.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 1: Password Spraying</a>                                              |
 | Basic Vulnerability Exploitation with SMBMap and Metasploit and Threat Detection and Mitigation with Elastic Security | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project3.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 2: Basic Vulnerability Exploitation</a>
 | Basic Malware Analysis and Reverse-Engineering with Ghidra | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project4.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 3: Introduction to Malware and Malware Analysis</a>
 
 ## Tools
 
-### Network
+### Network & Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat" />
+    <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat" /></a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-elasticstack-005571?logo=elasticstack&logoColor=white&style=flat" />
+    <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/-elasticstack-005571?logo=elasticstack&logoColor=white&style=flat" /></a> 
+</div>
+
+## Vulnerability Analysis and Malware Reverse-Engineering
+<div>
+    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat" /></a>
 </div>
 
 ## Certifications
@@ -34,8 +39,7 @@ My journey in computer science and my passion for technology has fueled my passi
 </div>
 
 ## Projects
-- DFIR and Security Analysis Lab
-- SOC Automation Project
+- [Semai Lab DFIR Home Lab Project Series](https://github.com/semailab/Semai-Lab-DFIR)
 
 ## Competitions
 <div>
