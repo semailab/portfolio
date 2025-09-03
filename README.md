@@ -11,7 +11,7 @@ My journey in computer science and my passion for technology has fueled my passi
 
 | Skill                                                | Associated Project                            |
 |------------------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis with ELK Stack  | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis with ELK Stack  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
 |                                                      |                                               |
 
 ## Tools
