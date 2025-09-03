@@ -12,6 +12,7 @@ My journey in computer science and my passion for technology has fueled my passi
 | Skill                                                | Associated Project                            |
 |------------------------------------------------------|-----------------------------------------------|
 | SIEM Implementation and Log Analysis with ELK Stack  | <a href="https://google.com">Detection Lab</a>|
+| -----------------------------------------------------|-----------------------------------------------|
 
 ## Tools
 
