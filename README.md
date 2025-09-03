@@ -21,16 +21,21 @@ My journey in computer science and my passion for technology has fueled my passi
 ### Network & Virtualization
 <div>
     <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat" /></a>
+    <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=flat" /></a>
 </div>
 
-### SIEM
+### SIEM and Log Analysis
 <div>
     <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/-elasticstack-005571?logo=elasticstack&logoColor=white&style=flat" /></a> 
+    <a href="https://www.elastic.co/security">Elastic Security</a>
+    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
 </div>
 
-## Vulnerability Analysis and Malware Reverse-Engineering
+## Vulnerability Analysis, Digital Forensics, and Malware Reverse-Engineering
 <div>
     <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat" /></a>
+    <a href="https://github.com/NationalSecurityAgency/ghidra">Ghidra</a>
+    <a href="https://docs.velociraptor.app/">Velociraptor</a>
 </div>
 
 ## Certifications
