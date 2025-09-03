@@ -11,8 +11,10 @@ My journey in computer science and my passion for technology has fueled my passi
 
 | Skill                                                | Associated Project                            |
 |------------------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis with ELK Stack  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
-|                                                      |                                               |
+| SIEM Implementation and Firewall Configuration with pfSense and ELK Stack  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
+|Log Analysis with Filebeat and Threat Mitigation with Fail2Ban                                                      | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project2.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 1: Password Spraying</a>                                              |
+| Basic Vulnerability Exploitation with SMBMap and Metasploit and Threat Detection and Mitigation with Elastic Security | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project3.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 2: Basic Vulnerability Exploitation</a>
+| Basic Malware Analysis and Reverse-Engineering with Ghidra | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project4.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 3: Introduction to Malware and Malware Analysis</a>
 
 ## Tools
 
