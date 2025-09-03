@@ -5,47 +5,51 @@ I am a Junior at The University of Texas at San Antonio with a strong interest i
 
 ## Objective
 
-My journey in computer science and my passion for technology has fueled my passion for cybersecurity. I am particularly focused on developing the necessary skills to become a Security Analyst, with the long-term goal of advancing into Incident Response. To support this path, I have developed projects and HackTheBox write-ups that strengthen the core defensive and analytical skills required for my journey. I also plan to branch outside my immediate role to increase my skill set and broaden my capabilities. This portfolio reflects my growth and commitment to continuous learning in the cybersecurity industry.
+My journey in computer science and passion for cybersecurity has shaped my goal of becoming a Security Analyst, with a long-term aim of advancing into Incident Response. To support this path, I am developing the core defensive and analytical skills required for these roles through hands-on projects and CTF challenges, while also broadening my skill set to strengthen my versatility as a cybersecurity professional.
 
 ## Skills
 
 | Skill                                                | Associated Project                            |
 |------------------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Firewall Configuration  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
-|Log Analysis and Threat Mitigation                                                      | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project2.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 1: Password Spraying</a>                                              |
-| Basic Vulnerability Exploitation, Threat Detection, and Mitigation | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project3.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 2: Basic Vulnerability Exploitation</a>
-| Basic Malware Analysis and Reverse-Engineering | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project4.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 3: Introduction to Malware and Malware Analysis</a>
+| SIEM and Firewall Setup  | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project1.md">Semai Lab DFIR: Cluster Setup</a>|
+|Log Analysis & Threat Mitigation                                                      | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project2.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 1: Password Spraying</a>                                              |
+| Vulnerability Detection & Mitigation | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project3.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 2: Basic Vulnerability Exploitation</a>
+| Malware Analysis & Reverse-Engineering | <a href="https://github.com/semailab/Semai-Lab-DFIR/blob/main/Project4.md">Semai Lab DFIR: Simulating and Detecting an Attack - Scenario 3: Introduction to Malware and Malware Analysis</a>
 
 ## Tools
 
 ### Network & Virtualization
 <div>
-    <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat" /></a>
-    <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=flat" /></a>
+    <li><a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=flat" /></a>
+    <li><a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=flat" /></a>
+    </li>
 </div>
 
 ### Operating Systems
 <div>
-    <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat" /></a>
-    <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Windows Server 2019</a>
-    
+    <li><a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat" /></a>
+    <li><a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Windows Server 2019</a>
+    </li>
 </div>
 
 ### SIEM and Log Analysis
 <div>
-    <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/-elasticstack-005571?logo=elasticstack&logoColor=white&style=flat" /></a> 
-    <a href="https://www.elastic.co/security">Elastic Security</a>
-    <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
+    <li><a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/-elasticstack-005571?logo=elasticstack&logoColor=white&style=flat" /></a> 
+    <li><a href="https://www.elastic.co/security">Elastic Security</a>
+    <li><a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
+    </li>
 </div>
+
 
 ### Vulnerability Analysis, Digital Forensics, and Malware Reverse-Engineering
 <div>
-    <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat" /></a>
-    <a href="https://github.com/mandiant/flare-vm">FlareVM</a>
-    <a href="https://remnux.org/">REMnux</a>
-    <a href="https://tsurugi-linux.org/">Tsurugi Linux</a>
-    <a href="https://github.com/NationalSecurityAgency/ghidra">Ghidra</a>
-    <a href="https://docs.velociraptor.app/">Velociraptor</a>
+    <li><a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat" /></a>
+    <li><a href="https://github.com/mandiant/flare-vm">FlareVM</a>
+    <li><a href="https://remnux.org/">REMnux</a>
+    <li><a href="https://tsurugi-linux.org/">Tsurugi Linux</a>
+    <li><a href="https://github.com/NationalSecurityAgency/ghidra">Ghidra</a>
+    <li><a href="https://docs.velociraptor.app/">Velociraptor</a>
+    </li>
 </div>
 
 ## Certifications
@@ -57,9 +61,9 @@ My journey in computer science and my passion for technology has fueled my passi
 - [Semai Lab DFIR Home Lab Project Series](https://github.com/semailab/Semai-Lab-DFIR)
 
 ## Competitions
-<div>
-    TracerFire 15 - 4th Place out of 20-30 Teams
-</div>
-<div>
-CyberForce 2025 - Currently trying out for UTSA Team
-</div>
+- TracerFire 15 - 4th Place out of 20-30 Teams
+- CyberForce 2025 - Currently trying out for UTSA Team
+
+## Connect
+- [Email](mailto:ian.villarreal444@gmail.com)
+- [HackTheBox Profile](https://app.hackthebox.com/profile/2119716)
