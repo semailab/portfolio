@@ -31,7 +31,7 @@ My journey in computer science and my passion for technology has fueled my passi
     <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a>
 </div>
 
-## Vulnerability Analysis, Digital Forensics, and Malware Reverse-Engineering
+### Vulnerability Analysis, Digital Forensics, and Malware Reverse-Engineering
 <div>
     <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff&style=flat" /></a>
     <a href="https://github.com/NationalSecurityAgency/ghidra">Ghidra</a>
