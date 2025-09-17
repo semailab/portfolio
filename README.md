@@ -62,7 +62,7 @@ My journey in computer science and passion for cybersecurity has shaped my goal 
 
 ## Competitions
 - TracerFire 15 - 4th Place out of 20-30 Teams
-- CyberForce 2025 - Currently trying out for UTSA Team
+- CyberForce 2025 - Part of the UTSA team with a main focus on Windows Indicator of Compromise (IoC) log analysis. Set to compete on November 14-15, 2025
 
 ## Connect
 - [Email](mailto:ian.villarreal444@gmail.com)
